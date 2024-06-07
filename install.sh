@@ -15,10 +15,9 @@ ARTSERVICE=false
 
 print_modname() {
   ui_print "  ################################"
-  ui_print "  Cherishe制作，感谢使用"
-  ui_print "  92二改"
+  ui_print "  Cherishe制作,92二改,感谢使用"
   ui_print "  ################################"
-  ui_print " 替换开机动画为"黑入荒坂"赛博朋克开机动画 "
+  ui_print " 替换开机动画为赛博朋克开机动画 "
  
 }
 
